@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Riya Sharma",
+    "category": ["Singer", "Performer"],
+    "location": "Mumbai",
+    "feeRange": "₹20k - ₹50k"
+  },
+  {
+    "id": 2,
+    "name": "Amit Verma",
+    "category": ["DJ"],
+    "location": "Delhi",
+    "feeRange": "₹30k - ₹60k"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Joshi",
+    "category": ["Dancer"],
+    "location": "Bangalore",
+    "feeRange": "₹25k - ₹40k"
+  }
+]
